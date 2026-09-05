@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="ecom_layeredtable" source-language="en-US" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="1" resname="0 = no limit. The extra entries are removed following the eviction strategy.">
+        <source>0 = no limit. The extra entries are removed following the eviction strategy.</source>
+        <target>0 = sin límite. Las entradas sobrantes se eliminan siguiendo la estrategia de evacuación.</target>
+      </trans-unit>
+      <trans-unit id="2" resname="A newer version of this module exists.">
+        <source>A newer version of this module exists.</source>
+        <target>Existe una versión más reciente de este módulo.</target>
+      </trans-unit>
+      <trans-unit id="3" resname="Above this percentage a TRUNCATE (one second) replaces row-by-row deletion; 0 = always row by row.">
+        <source>Above this percentage a TRUNCATE (one second) replaces row-by-row deletion; 0 = always row by row.</source>
+        <target>Por encima de este porcentaje un TRUNCATE (un segundo) sustituye al borrado fila a fila; 0 = siempre fila a fila.</target>
+      </trans-unit>
+      <trans-unit id="4" resname="Actions">
+        <source>Actions</source>
+        <target>Acciones</target>
+      </trans-unit>
+      <trans-unit id="5" resname="Add date column">
+        <source>Add date column</source>
+        <target>Añadir columna de fecha</target>
+      </trans-unit>
+      <trans-unit id="6" resname="Add the date column only when the table is under">
+        <source>Add the date column only when the table is under</source>
+        <target>Añadir la columna de fecha solo cuando la tabla ocupe menos de</target>
+      </trans-unit>
+      <trans-unit id="7" resname="After">
+        <source>After</source>
+        <target>Después</target>
+      </trans-unit>
+      <trans-unit id="8" resname="Allow the automatic run from front-office visits">
+        <source>Allow the automatic run from front-office visits</source>
+        <target>Permitir la ejecución automática desde las visitas de la tienda</target>
+      </trans-unit>
+      <trans-unit id="9" resname="Another cleaning is running. Try again in a moment.">
+        <source>Another cleaning is running. Try again in a moment.</source>
+        <target>Ya hay otra limpieza en marcha. Inténtalo de nuevo en un momento.</target>
+      </trans-unit>
+      <trans-unit id="10" resname="Automatic">
+        <source>Automatic</source>
+        <target>Automático</target>
+      </trans-unit>
+      <trans-unit id="11" resname="Automatic run every">
+        <source>Automatic run every</source>
+        <target>Ejecución automática cada</target>
+      </trans-unit>
+      <trans-unit id="12" resname="Automation">
+        <source>Automation</source>
+        <target>Automatización</target>
+      </trans-unit>
+      <trans-unit id="13" resname="Before">
+        <source>Before</source>
+        <target>Antes</target>
+      </trans-unit>
+      <trans-unit id="14" resname="Biggest first">
+        <source>Biggest first</source>
+        <target>Las más grandes primero</target>
+      </trans-unit>
+      <trans-unit id="15" resname="Bot signatures">
+        <source>Bot signatures</source>
+        <target>Firmas de robots</target>
+      </trans-unit>
+      <trans-unit id="16" resname="Bots, price or weight ranges, too many filters and a full table are not written to the cache. The facets still work; they are just not stored.">
+        <source>Bots, price or weight ranges, too many filters and a full table are not written to the cache. The facets still work; they are just not stored.</source>
+        <target>Robots, rangos de precio o peso, demasiados filtros y tabla llena no se escriben en la caché. Las facetas siguen funcionando; solo no se guardan.</target>
+      </trans-unit>
+      <trans-unit id="17" resname="Cache off">
+        <source>Cache off</source>
+        <target>Caché apagada</target>
+      </trans-unit>
+      <trans-unit id="18" resname="Cached entries">
+        <source>Cached entries</source>
+        <target>Entradas en caché</target>
+      </trans-unit>
+      <trans-unit id="19" resname="Clean now">
+        <source>Clean now</source>
+        <target>Limpiar ahora</target>
+      </trans-unit>
+      <trans-unit id="20" resname="Clean now applies every rule until the table is under the limit. Optimize gives the disk space back. Empty the cache deletes everything (it regenerates itself). The index buttons do the same as the ps_facetedsearch page.">
+        <source>Clean now applies every rule until the table is under the limit. Optimize gives the disk space back. Empty the cache deletes everything (it regenerates itself). The index buttons do the same as the ps_facetedsearch page.</source>
+        <target>«Limpiar ahora» aplica todas las reglas hasta que la tabla baja del límite. «Optimizar» devuelve el espacio al disco. «Vaciar la caché» lo borra todo (se regenera sola). Los botones de índices hacen lo mismo que la página de ps_facetedsearch.</target>
+      </trans-unit>
+      <trans-unit id="21" resname="Clear log">
+        <source>Clear log</source>
+        <target>Borrar registro</target>
+      </trans-unit>
+      <trans-unit id="22" resname="Column">
+        <source>Column</source>
+        <target>Columna</target>
+      </trans-unit>
+      <trans-unit id="23" resname="Combinations of many filters are rarely repeated; 0 = no limit.">
+        <source>Combinations of many filters are rarely repeated; 0 = no limit.</source>
+        <target>Las combinaciones de muchos filtros rara vez se repiten; 0 = sin límite.</target>
+      </trans-unit>
+      <trans-unit id="24" resname="Copy">
+        <source>Copy</source>
+        <target>Copiar</target>
+      </trans-unit>
+      <trans-unit id="25" resname="Crawlers create entries nobody reads again; the facets still work for them.">
+        <source>Crawlers create entries nobody reads again; the facets still work for them.</source>
+        <target>Los rastreadores crean entradas que nadie vuelve a leer; las facetas les siguen funcionando.</target>
+      </trans-unit>
+      <trans-unit id="26" resname="Cron">
+        <source>Cron</source>
+        <target>Cron</target>
+      </trans-unit>
+      <trans-unit id="27" resname="Data">
+        <source>Data</source>
+        <target>Datos</target>
+      </trans-unit>
+      <trans-unit id="28" resname="Date">
+        <source>Date</source>
+        <target>Fecha</target>
+      </trans-unit>
+      <trans-unit id="29" resname="Date and usage">
+        <source>Date and usage</source>
+        <target>Fecha y uso</target>
+      </trans-unit>
+      <trans-unit id="30" resname="Date column">
+        <source>Date column</source>
+        <target>Columna de fecha</target>
+      </trans-unit>
+      <trans-unit id="31" resname="Days since the entry was created. 0 = never.">
+        <source>Days since the entry was created. 0 = never.</source>
+        <target>Días desde que se creó la entrada. 0 = nunca.</target>
+      </trans-unit>
+      <trans-unit id="32" resname="Days since the entry was last requested. 0 = never.">
+        <source>Days since the entry was last requested. 0 = never.</source>
+        <target>Días desde la última vez que se consultó la entrada. 0 = nunca.</target>
+      </trans-unit>
+      <trans-unit id="33" resname="Debug log">
+        <source>Debug log</source>
+        <target>Registro de depuración</target>
+      </trans-unit>
+      <trans-unit id="34" resname="Delete entries not used for">
+        <source>Delete entries not used for</source>
+        <target>Borrar las entradas sin usar desde hace</target>
+      </trans-unit>
+      <trans-unit id="35" resname="Delete entries older than">
+        <source>Delete entries older than</source>
+        <target>Borrar las entradas con más de</target>
+      </trans-unit>
+      <trans-unit id="36" resname="Deleted">
+        <source>Deleted</source>
+        <target>Borradas</target>
+      </trans-unit>
+      <trans-unit id="37" resname="Disk">
+        <source>Disk</source>
+        <target>Disco</target>
+      </trans-unit>
+      <trans-unit id="38" resname="Disk file over the limit: press &quot;Optimize&quot;.">
+        <source>Disk file over the limit: press "Optimize".</source>
+        <target>Fichero en disco por encima del límite: pulsa «Optimizar».</target>
+      </trans-unit>
+      <trans-unit id="39" resname="Do not cache requests from bots">
+        <source>Do not cache requests from bots</source>
+        <target>No guardar en caché las peticiones de robots</target>
+      </trans-unit>
+      <trans-unit id="40" resname="Do not cache requests with a price or weight range">
+        <source>Do not cache requests with a price or weight range</source>
+        <target>No guardar en caché las peticiones con rango de precio o de peso</target>
+      </trans-unit>
+      <trans-unit id="41" resname="Do not cache requests with more than">
+        <source>Do not cache requests with more than</source>
+        <target>No guardar en caché las peticiones con más de</target>
+      </trans-unit>
+      <trans-unit id="42" resname="Do not cache while the table is over the limit">
+        <source>Do not cache while the table is over the limit</source>
+        <target>No guardar en caché mientras la tabla supere el límite</target>
+      </trans-unit>
+      <trans-unit id="43" resname="Done">
+        <source>Done</source>
+        <target>Hecho</target>
+      </trans-unit>
+      <trans-unit id="44" resname="Emergency: empty the table if the file on disk still exceeds the limit">
+        <source>Emergency: empty the table if the file on disk still exceeds the limit</source>
+        <target>Emergencia: vaciar la tabla si el fichero en disco sigue superando el límite</target>
+      </trans-unit>
+      <trans-unit id="45" resname="Empty the cache">
+        <source>Empty the cache</source>
+        <target>Vaciar la caché</target>
+      </trans-unit>
+      <trans-unit id="46" resname="Empty the table instead of evicting when more than">
+        <source>Empty the table instead of evicting when more than</source>
+        <target>Vaciar la tabla en vez de evacuar cuando haya que borrar más del</target>
+      </trans-unit>
+      <trans-unit id="47" resname="Enable the guard">
+        <source>Enable the guard</source>
+        <target>Activar el guardián</target>
+      </trans-unit>
+      <trans-unit id="48" resname="Entries deleted per SQL statement.">
+        <source>Entries deleted per SQL statement.</source>
+        <target>Entradas borradas por cada sentencia SQL.</target>
+      </trans-unit>
+      <trans-unit id="49" resname="Entries larger than this are removed; 0 = no limit.">
+        <source>Entries larger than this are removed; 0 = no limit.</source>
+        <target>Las entradas mayores se eliminan; 0 = sin límite.</target>
+      </trans-unit>
+      <trans-unit id="50" resname="Error">
+        <source>Error</source>
+        <target>Error</target>
+      </trans-unit>
+      <trans-unit id="51" resname="Every combination of filters, currency, language and country is a new entry, price ranges are infinite, bots crawl every URL, and nothing ever expires.">
+        <source>Every combination of filters, currency, language and country is a new entry, price ranges are infinite, bots crawl every URL, and nothing ever expires.</source>
+        <target>Cada combinación de filtros, moneda, idioma y país es una entrada nueva, los rangos de precio son infinitos, los robots recorren todas las URL y nada caduca nunca.</target>
+      </trans-unit>
+      <trans-unit id="52" resname="Every hour.">
+        <source>Every hour.</source>
+        <target>Cada hora.</target>
+      </trans-unit>
+      <trans-unit id="53" resname="Every slider position is a new entry: the main reason the table grows.">
+        <source>Every slider position is a new entry: the main reason the table grows.</source>
+        <target>Cada posición del deslizador es una entrada nueva: el motivo principal de que la tabla crezca.</target>
+      </trans-unit>
+      <trans-unit id="54" resname="Eviction strategy">
+        <source>Eviction strategy</source>
+        <target>Estrategia de evacuación</target>
+      </trans-unit>
+      <trans-unit id="55" resname="Faceted search cache guard">
+        <source>Faceted search cache guard</source>
+        <target>Guardián de la caché de facetas</target>
+      </trans-unit>
+      <trans-unit id="56" resname="File on disk">
+        <source>File on disk</source>
+        <target>Fichero en disco</target>
+      </trans-unit>
+      <trans-unit id="57" resname="Free">
+        <source>Free</source>
+        <target>Libre</target>
+      </trans-unit>
+      <trans-unit id="58" resname="Gives a date and a size to the entries the module does not know yet.">
+        <source>Gives a date and a size to the entries the module does not know yet.</source>
+        <target>Asigna fecha y tamaño a las entradas que el módulo todavía no conoce.</target>
+      </trans-unit>
+      <trans-unit id="59" resname="Guard disabled: nothing runs automatically.">
+        <source>Guard disabled: nothing runs automatically.</source>
+        <target>Guardián desactivado: no se ejecuta nada automáticamente.</target>
+      </trans-unit>
+      <trans-unit id="60" resname="Hard limit: above it entries are evicted down to the target, and the table is emptied if the disk file still exceeds it.">
+        <source>Hard limit: above it entries are evicted down to the target, and the table is emptied if the disk file still exceeds it.</source>
+        <target>Límite duro: por encima se evacúan entradas hasta el objetivo, y la tabla se vacía si el fichero en disco sigue superándolo.</target>
+      </trans-unit>
+      <trans-unit id="61" resname="Help: how it works">
+        <source>Help: how it works</source>
+        <target>Ayuda: cómo funciona</target>
+      </trans-unit>
+      <trans-unit id="62" resname="History entries to keep">
+        <source>History entries to keep</source>
+        <target>Entradas del histórico que se conservan</target>
+      </trans-unit>
+      <trans-unit id="63" resname="InnoDB keeps the space of deleted rows; OPTIMIZE TABLE rebuilds the table and returns it. Never from the front office: it can take minutes.">
+        <source>InnoDB keeps the space of deleted rows; OPTIMIZE TABLE rebuilds the table and returns it. Never from the front office: it can take minutes.</source>
+        <target>InnoDB se queda con el espacio de las filas borradas; OPTIMIZE TABLE reconstruye la tabla y lo devuelve. Nunca desde la tienda: puede tardar minutos.</target>
+      </trans-unit>
+      <trans-unit id="64" resname="Invalid eviction strategy.">
+        <source>Invalid eviction strategy.</source>
+        <target>Estrategia de evacuación no válida.</target>
+      </trans-unit>
+      <trans-unit id="65" resname="Invalid value for %1$s (allowed: %2$d to %3$d).">
+        <source>Invalid value for %1$s (allowed: %2$d to %3$d).</source>
+        <target>Valor no válido para %1$s (permitido: de %2$d a %3$d).</target>
+      </trans-unit>
+      <trans-unit id="66" resname="Keeps the layered_filter_block table of ps_facetedsearch under a size limit: cleaning by date, by usage and by size, and stopping bots and price ranges from filling it.">
+        <source>Keeps the layered_filter_block table of ps_facetedsearch under a size limit: cleaning by date, by usage and by size, and stopping bots and price ranges from filling it.</source>
+        <target>Mantiene la tabla layered_filter_block de ps_facetedsearch por debajo de un límite de tamaño: limpieza por fecha, por uso y por tamaño, e impide que los robots y los rangos de precio la llenen.</target>
+      </trans-unit>
+      <trans-unit id="67" resname="Last run">
+        <source>Last run</source>
+        <target>Última ejecución</target>
+      </trans-unit>
+      <trans-unit id="68" resname="Least recently used first (LRU)">
+        <source>Least recently used first (LRU)</source>
+        <target>Las usadas hace más tiempo primero (LRU)</target>
+      </trans-unit>
+      <trans-unit id="69" resname="Least used first (LFU)">
+        <source>Least used first (LFU)</source>
+        <target>Las menos usadas primero (LFU)</target>
+      </trans-unit>
+      <trans-unit id="70" resname="Limits">
+        <source>Limits</source>
+        <target>Límites</target>
+      </trans-unit>
+      <trans-unit id="71" resname="Live data">
+        <source>Live data</source>
+        <target>Datos vivos</target>
+      </trans-unit>
+      <trans-unit id="72" resname="Log">
+        <source>Log</source>
+        <target>Registro</target>
+      </trans-unit>
+      <trans-unit id="73" resname="Maximum number of entries">
+        <source>Maximum number of entries</source>
+        <target>Número máximo de entradas</target>
+      </trans-unit>
+      <trans-unit id="74" resname="Maximum size of a single entry">
+        <source>Maximum size of a single entry</source>
+        <target>Tamaño máximo de una entrada</target>
+      </trans-unit>
+      <trans-unit id="75" resname="Maximum size of the table">
+        <source>Maximum size of the table</source>
+        <target>Tamaño máximo de la tabla</target>
+      </trans-unit>
+      <trans-unit id="76" resname="Minimum minutes between two automatic runs; 0 = only by cron or manually.">
+        <source>Minimum minutes between two automatic runs; 0 = only by cron or manually.</source>
+        <target>Minutos mínimos entre dos ejecuciones automáticas; 0 = solo por cron o a mano.</target>
+      </trans-unit>
+      <trans-unit id="77" resname="Multistore">
+        <source>Multistore</source>
+        <target>Multitienda</target>
+      </trans-unit>
+      <trans-unit id="78" resname="New version available">
+        <source>New version available</source>
+        <target>Nueva versión disponible</target>
+      </trans-unit>
+      <trans-unit id="79" resname="No">
+        <source>No</source>
+        <target>No</target>
+      </trans-unit>
+      <trans-unit id="80" resname="No date column yet: press &quot;Add date column&quot;.">
+        <source>No date column yet: press "Add date column".</source>
+        <target>Todavía no hay columna de fecha: pulsa «Añadir columna de fecha».</target>
+      </trans-unit>
+      <trans-unit id="81" resname="No layered_* table found.">
+        <source>No layered_* table found.</source>
+        <target>No se ha encontrado ninguna tabla layered_*.</target>
+      </trans-unit>
+      <trans-unit id="82" resname="No log file yet. Enable the debug log and browse a category.">
+        <source>No log file yet. Enable the debug log and browse a category.</source>
+        <target>Todavía no hay fichero de registro. Activa el registro de depuración y navega por una categoría.</target>
+      </trans-unit>
+      <trans-unit id="83" resname="No run yet.">
+        <source>No run yet.</source>
+        <target>Todavía no se ha ejecutado ninguna limpieza.</target>
+      </trans-unit>
+      <trans-unit id="84" resname="OPTIMIZE TABLE rebuilds the table. On a very large table it can take minutes. Continue?">
+        <source>OPTIMIZE TABLE rebuilds the table. On a very large table it can take minutes. Continue?</source>
+        <target>OPTIMIZE TABLE reconstruye la tabla. Con una tabla muy grande puede tardar minutos. ¿Continuar?</target>
+      </trans-unit>
+      <trans-unit id="85" resname="Oldest first">
+        <source>Oldest first</source>
+        <target>Las más antiguas primero</target>
+      </trans-unit>
+      <trans-unit id="86" resname="One per line, matched against the User-Agent; an empty User-Agent counts as a bot.">
+        <source>One per line, matched against the User-Agent; an empty User-Agent counts as a bot.</source>
+        <target>Una por línea, comparada con el User-Agent; un User-Agent vacío cuenta como robot.</target>
+      </trans-unit>
+      <trans-unit id="87" resname="One small query per listing page; needed by the &quot;not used for&quot; rule and the LRU/LFU strategies.">
+        <source>One small query per listing page; needed by the "not used for" rule and the LRU/LFU strategies.</source>
+        <target>Una consulta pequeña por página de listado; la necesitan la regla «sin usar desde hace» y las estrategias LRU/LFU.</target>
+      </trans-unit>
+      <trans-unit id="88" resname="One visitor every N minutes pays the time budget; turn it off if you configure the cron.">
+        <source>One visitor every N minutes pays the time budget; turn it off if you configure the cron.</source>
+        <target>Un visitante cada N minutos paga el presupuesto de tiempo; desactívalo si configuras el cron.</target>
+      </trans-unit>
+      <trans-unit id="89" resname="One visitor every N minutes runs a short bounded pass; the back-office runs a longer one; the cron URL below runs the complete one with OPTIMIZE.">
+        <source>One visitor every N minutes runs a short bounded pass; the back-office runs a longer one; the cron URL below runs the complete one with OPTIMIZE.</source>
+        <target>Un visitante cada N minutos ejecuta una pasada corta y acotada; el back-office una más larga; la URL del cron de abajo, la completa con OPTIMIZE.</target>
+      </trans-unit>
+      <trans-unit id="90" resname="Only OPTIMIZE or TRUNCATE return disk space; the front office cannot OPTIMIZE, so after a grace period it empties the table.">
+        <source>Only OPTIMIZE or TRUNCATE return disk space; the front office cannot OPTIMIZE, so after a grace period it empties the table.</source>
+        <target>Solo OPTIMIZE o TRUNCATE devuelven espacio al disco; la tienda no puede hacer OPTIMIZE, así que tras un periodo de gracia vacía la tabla.</target>
+      </trans-unit>
+      <trans-unit id="91" resname="Only from the back-office and the cron.">
+        <source>Only from the back-office and the cron.</source>
+        <target>Solo desde el back-office y el cron.</target>
+      </trans-unit>
+      <trans-unit id="92" resname="Optimize">
+        <source>Optimize</source>
+        <target>Optimizar</target>
+      </trans-unit>
+      <trans-unit id="93" resname="Optimize when the fragmented space exceeds">
+        <source>Optimize when the fragmented space exceeds</source>
+        <target>Optimizar cuando el espacio fragmentado supere</target>
+      </trans-unit>
+      <trans-unit id="94" resname="Origin">
+        <source>Origin</source>
+        <target>Origen</target>
+      </trans-unit>
+      <trans-unit id="95" resname="Percentage of the maximum to go down to (70 with 950 MB = 665 MB).">
+        <source>Percentage of the maximum to go down to (70 with 950 MB = 665 MB).</source>
+        <target>Porcentaje del máximo hasta el que se baja (70 con 950 MB = 665 MB).</target>
+      </trans-unit>
+      <trans-unit id="96" resname="Please contact support to update it.">
+        <source>Please contact support to update it.</source>
+        <target>Por favor, contacta con soporte para actualizarlo.</target>
+      </trans-unit>
+      <trans-unit id="97" resname="Prevention">
+        <source>Prevention</source>
+        <target>Prevención</target>
+      </trans-unit>
+      <trans-unit id="98" resname="Rebuild attribute index">
+        <source>Rebuild attribute index</source>
+        <target>Reconstruir el índice de atributos</target>
+      </trans-unit>
+      <trans-unit id="99" resname="Rebuild price index">
+        <source>Rebuild price index</source>
+        <target>Reconstruir el índice de precios</target>
+      </trans-unit>
+      <trans-unit id="100" resname="Rebuilding the index can take a while on a large catalogue. Continue?">
+        <source>Rebuilding the index can take a while on a large catalogue. Continue?</source>
+        <target>Reconstruir el índice puede tardar un rato con un catálogo grande. ¿Continuar?</target>
+      </trans-unit>
+      <trans-unit id="101" resname="Reconcile">
+        <source>Reconcile</source>
+        <target>Reconciliar</target>
+      </trans-unit>
+      <trans-unit id="102" resname="Refresh">
+        <source>Refresh</source>
+        <target>Actualizar</target>
+      </trans-unit>
+      <trans-unit id="103" resname="Regenerate the cron token">
+        <source>Regenerate the cron token</source>
+        <target>Regenerar el token del cron</target>
+      </trans-unit>
+      <trans-unit id="104" resname="Rows">
+        <source>Rows</source>
+        <target>Filas</target>
+      </trans-unit>
+      <trans-unit id="105" resname="Rows in the run history shown in the panel.">
+        <source>Rows in the run history shown in the panel.</source>
+        <target>Filas del histórico de ejecuciones que se muestra en el panel.</target>
+      </trans-unit>
+      <trans-unit id="106" resname="Rows per batch">
+        <source>Rows per batch</source>
+        <target>Filas por lote</target>
+      </trans-unit>
+      <trans-unit id="107" resname="Run OPTIMIZE TABLE to reclaim disk space">
+        <source>Run OPTIMIZE TABLE to reclaim disk space</source>
+        <target>Ejecutar OPTIMIZE TABLE para recuperar espacio en disco</target>
+      </trans-unit>
+      <trans-unit id="108" resname="Run history">
+        <source>Run history</source>
+        <target>Histórico de ejecuciones</target>
+      </trans-unit>
+      <trans-unit id="109" resname="Runs in passes of a few seconds until the table is under the limit. If more than the configured percentage of the table has to go, it empties it in one second instead of row by row.">
+        <source>Runs in passes of a few seconds until the table is under the limit. If more than the configured percentage of the table has to go, it empties it in one second instead of row by row.</source>
+        <target>Se ejecuta en pasadas de pocos segundos hasta que la tabla baja del límite. Si hay que borrar más del porcentaje configurado, la vacía en un segundo en vez de fila a fila.</target>
+      </trans-unit>
+      <trans-unit id="110" resname="Save">
+        <source>Save</source>
+        <target>Guardar</target>
+      </trans-unit>
+      <trans-unit id="111" resname="Settings">
+        <source>Settings</source>
+        <target>Configuración</target>
+      </trans-unit>
+      <trans-unit id="112" resname="Settings saved.">
+        <source>Settings saved.</source>
+        <target>Configuración guardada.</target>
+      </trans-unit>
+      <trans-unit id="113" resname="Show log">
+        <source>Show log</source>
+        <target>Ver registro</target>
+      </trans-unit>
+      <trans-unit id="114" resname="Space that InnoDB keeps reserved after deletions (DATA_FREE).">
+        <source>Space that InnoDB keeps reserved after deletions (DATA_FREE).</source>
+        <target>Espacio que InnoDB mantiene reservado tras los borrados (DATA_FREE).</target>
+      </trans-unit>
+      <trans-unit id="115" resname="Table">
+        <source>Table</source>
+        <target>Tabla</target>
+      </trans-unit>
+      <trans-unit id="116" resname="Table over the limit: press &quot;Clean now&quot;.">
+        <source>Table over the limit: press "Clean now".</source>
+        <target>Tabla por encima del límite: pulsa «Limpiar ahora».</target>
+      </trans-unit>
+      <trans-unit id="117" resname="Tables of the faceted search">
+        <source>Tables of the faceted search</source>
+        <target>Tablas de la navegación por facetas</target>
+      </trans-unit>
+      <trans-unit id="118" resname="Target after eviction">
+        <source>Target after eviction</source>
+        <target>Objetivo tras la evacuación</target>
+      </trans-unit>
+      <trans-unit id="119" resname="The block cache is disabled in ps_facetedsearch, so the table cannot grow; this module only keeps it clean.">
+        <source>The block cache is disabled in ps_facetedsearch, so the table cannot grow; this module only keeps it clean.</source>
+        <target>La caché de bloques está desactivada en ps_facetedsearch, así que la tabla no puede crecer; este módulo solo la mantiene limpia.</target>
+      </trans-unit>
+      <trans-unit id="120" resname="The cron URL is in the panel above; every hour is enough.">
+        <source>The cron URL is in the panel above; every hour is enough.</source>
+        <target>La URL del cron está en el panel de arriba; con cada hora basta.</target>
+      </trans-unit>
+      <trans-unit id="121" resname="The data column holds 64 KB per entry; larger blocks are silently truncated and rewritten on every visit. The module deletes them.">
+        <source>The data column holds 64 KB per entry; larger blocks are silently truncated and rewritten on every visit. The module deletes them.</source>
+        <target>La columna de datos admite 64 KB por entrada; los bloques mayores se truncan en silencio y se reescriben en cada visita. El módulo los borra.</target>
+      </trans-unit>
+      <trans-unit id="122" resname="The layered_filter_block table does not exist in the database.">
+        <source>The layered_filter_block table does not exist in the database.</source>
+        <target>La tabla layered_filter_block no existe en la base de datos.</target>
+      </trans-unit>
+      <trans-unit id="123" resname="The layered_filter_block table does not exist. Is ps_facetedsearch installed?">
+        <source>The layered_filter_block table does not exist. Is ps_facetedsearch installed?</source>
+        <target>La tabla layered_filter_block no existe. ¿Está instalado ps_facetedsearch?</target>
+      </trans-unit>
+      <trans-unit id="124" resname="The module adds date_add to layered_filter_block to clean by age. ps_facetedsearch names its columns when writing, so it is not affected. On old MySQL with a big table the ALTER waits until the table is small.">
+        <source>The module adds date_add to layered_filter_block to clean by age. ps_facetedsearch names its columns when writing, so it is not affected. On old MySQL with a big table the ALTER waits until the table is small.</source>
+        <target>El módulo añade date_add a layered_filter_block para limpiar por antigüedad. ps_facetedsearch nombra sus columnas al escribir, así que no le afecta. En MySQL antiguos con una tabla grande el ALTER espera a que la tabla sea pequeña.</target>
+      </trans-unit>
+      <trans-unit id="125" resname="The module tables and settings will be removed. The faceted search cache itself is not touched.">
+        <source>The module tables and settings will be removed. The faceted search cache itself is not touched.</source>
+        <target>Se eliminarán las tablas y la configuración del módulo. La caché de facetas no se toca.</target>
+      </trans-unit>
+      <trans-unit id="126" resname="The old cron URL stops working.">
+        <source>The old cron URL stops working.</source>
+        <target>La URL antigua del cron deja de funcionar.</target>
+      </trans-unit>
+      <trans-unit id="127" resname="The run stops when the budget is over and continues next time.">
+        <source>The run stops when the budget is over and continues next time.</source>
+        <target>La ejecución se detiene al agotar el presupuesto y continúa la siguiente vez.</target>
+      </trans-unit>
+      <trans-unit id="128" resname="The table is shared by every shop, so all the settings of this module are global.">
+        <source>The table is shared by every shop, so all the settings of this module are global.</source>
+        <target>La tabla es común a todas las tiendas, así que toda la configuración de este módulo es global.</target>
+      </trans-unit>
+      <trans-unit id="129" resname="This empties the whole faceted search cache. It is regenerated on demand. Continue?">
+        <source>This empties the whole faceted search cache. It is regenerated on demand. Continue?</source>
+        <target>Esto vacía toda la caché de facetas. Se regenera sola. ¿Continuar?</target>
+      </trans-unit>
+      <trans-unit id="130" resname="This runs ALTER TABLE on layered_filter_block. On an old MySQL with a big table it can take minutes. Continue?">
+        <source>This runs ALTER TABLE on layered_filter_block. On an old MySQL with a big table it can take minutes. Continue?</source>
+        <target>Esto ejecuta ALTER TABLE sobre layered_filter_block. En un MySQL antiguo con una tabla grande puede tardar minutos. ¿Continuar?</target>
+      </trans-unit>
+      <trans-unit id="131" resname="This version has no cache-key hook (added in 4.0.1): prevention works through the core hook, but the usage of each entry cannot be tracked, so entries are cleaned by age.">
+        <source>This version has no cache-key hook (added in 4.0.1): prevention works through the core hook, but the usage of each entry cannot be tracked, so entries are cleaned by age.</source>
+        <target>Esta versión no tiene el hook de la clave de caché (se añadió en 4.0.1): la prevención funciona por el hook del núcleo, pero no se puede registrar el uso de cada entrada, así que se limpian por antigüedad.</target>
+      </trans-unit>
+      <trans-unit id="132" resname="Time budget from the back-office">
+        <source>Time budget from the back-office</source>
+        <target>Presupuesto de tiempo desde el back-office</target>
+      </trans-unit>
+      <trans-unit id="133" resname="Time budget from the cron">
+        <source>Time budget from the cron</source>
+        <target>Presupuesto de tiempo desde el cron</target>
+      </trans-unit>
+      <trans-unit id="134" resname="Time budget from the front office">
+        <source>Time budget from the front office</source>
+        <target>Presupuesto de tiempo desde la tienda</target>
+      </trans-unit>
+      <trans-unit id="135" resname="Track usage of each entry">
+        <source>Track usage of each entry</source>
+        <target>Registrar el uso de cada entrada</target>
+      </trans-unit>
+      <trans-unit id="136" resname="Usage">
+        <source>Usage</source>
+        <target>Uso</target>
+      </trans-unit>
+      <trans-unit id="137" resname="Uses the size measured by the last run, so it costs nothing per request.">
+        <source>Uses the size measured by the last run, so it costs nothing per request.</source>
+        <target>Usa el tamaño medido en la última ejecución, así que no cuesta nada por petición.</target>
+      </trans-unit>
+      <trans-unit id="138" resname="When disabled nothing runs automatically; the manual buttons keep working.">
+        <source>When disabled nothing runs automatically; the manual buttons keep working.</source>
+        <target>Desactivado no se ejecuta nada automáticamente; los botones manuales siguen funcionando.</target>
+      </trans-unit>
+      <trans-unit id="139" resname="Which entries leave first when the size or row limit is exceeded.">
+        <source>Which entries leave first when the size or row limit is exceeded.</source>
+        <target>Qué entradas salen primero cuando se supera el límite de tamaño o de filas.</target>
+      </trans-unit>
+      <trans-unit id="140" resname="Why the table grows">
+        <source>Why the table grows</source>
+        <target>Por qué crece la tabla</target>
+      </trans-unit>
+      <trans-unit id="141" resname="Without instant ALTER (MySQL &lt; 8.0, MariaDB &lt; 10.3) adding the date column rebuilds the table, so it waits until the table is this small; 0 = no limit.">
+        <source>Without instant ALTER (MySQL &lt; 8.0, MariaDB &lt; 10.3) adding the date column rebuilds the table, so it waits until the table is this small; 0 = no limit.</source>
+        <target>Sin ALTER instantáneo (MySQL &lt; 8.0, MariaDB &lt; 10.3) añadir la columna de fecha reconstruye la tabla, así que espera a que ocupe menos de esto; 0 = sin límite.</target>
+      </trans-unit>
+      <trans-unit id="142" resname="Working...">
+        <source>Working...</source>
+        <target>Trabajando...</target>
+      </trans-unit>
+      <trans-unit id="143" resname="Writes what the module decides to modules/ecom_layeredtable/logs/; turn it off when done.">
+        <source>Writes what the module decides to modules/ecom_layeredtable/logs/; turn it off when done.</source>
+        <target>Escribe cada decisión en modules/ecom_layeredtable/logs/; desactívalo cuando termines.</target>
+      </trans-unit>
+      <trans-unit id="144" resname="Yes">
+        <source>Yes</source>
+        <target>Sí</target>
+      </trans-unit>
+      <trans-unit id="145" resname="cache off">
+        <source>cache off</source>
+        <target>caché apagada</target>
+      </trans-unit>
+      <trans-unit id="146" resname="days">
+        <source>days</source>
+        <target>días</target>
+      </trans-unit>
+      <trans-unit id="147" resname="filters">
+        <source>filters</source>
+        <target>filtros</target>
+      </trans-unit>
+      <trans-unit id="148" resname="fragmented">
+        <source>fragmented</source>
+        <target>fragmentado</target>
+      </trans-unit>
+      <trans-unit id="149" resname="global settings">
+        <source>global settings</source>
+        <target>configuración global</target>
+      </trans-unit>
+      <trans-unit id="150" resname="hits">
+        <source>hits</source>
+        <target>aciertos</target>
+      </trans-unit>
+      <trans-unit id="151" resname="limit">
+        <source>limit</source>
+        <target>límite</target>
+      </trans-unit>
+      <trans-unit id="152" resname="minutes">
+        <source>minutes</source>
+        <target>minutos</target>
+      </trans-unit>
+      <trans-unit id="153" resname="never">
+        <source>never</source>
+        <target>nunca</target>
+      </trans-unit>
+      <trans-unit id="154" resname="no">
+        <source>no</source>
+        <target>no</target>
+      </trans-unit>
+      <trans-unit id="155" resname="pass">
+        <source>pass</source>
+        <target>pasada</target>
+      </trans-unit>
+      <trans-unit id="156" resname="products indexed">
+        <source>products indexed</source>
+        <target>productos indexados</target>
+      </trans-unit>
+      <trans-unit id="157" resname="ps_facetedsearch is not active.">
+        <source>ps_facetedsearch is not active.</source>
+        <target>ps_facetedsearch no está activo.</target>
+      </trans-unit>
+      <trans-unit id="158" resname="rows deleted">
+        <source>rows deleted</source>
+        <target>filas borradas</target>
+      </trans-unit>
+      <trans-unit id="159" resname="seconds">
+        <source>seconds</source>
+        <target>segundos</target>
+      </trans-unit>
+      <trans-unit id="160" resname="tracked">
+        <source>tracked</source>
+        <target>registradas</target>
+      </trans-unit>
+      <trans-unit id="161" resname="yes">
+        <source>yes</source>
+        <target>sí</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

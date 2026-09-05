@@ -1,0 +1,30 @@
+/**
+ * Ecom Layered Table - keeps the ps_facetedsearch filter block cache under control
+ *
+ * @author    Ecom Experts <ecomyseo@gmail.com>
+ * @copyright 2026 Ecom Experts
+ * @license   https://opensource.org/licenses/AFL-3.0 Academic Free License 3.0 (AFL-3.0)
+ */
+#elt-dashboard .elt-cards { margin-bottom: 10px; }
+#elt-dashboard .elt-card { background: #fafbfc; border: 1px solid #dfe3e8; border-radius: 4px; padding: 12px 14px; margin-bottom: 12px; min-height: 108px; }
+#elt-dashboard .elt-card-label { font-size: 12px; text-transform: uppercase; color: #6c868e; letter-spacing: .03em; }
+#elt-dashboard .elt-card-value { font-size: 26px; font-weight: 600; line-height: 1.3; color: #363a41; }
+#elt-dashboard .elt-card-value.elt-card-small { font-size: 18px; }
+#elt-dashboard .elt-card-sub { font-size: 12px; color: #6c868e; }
+#elt-dashboard .elt-progress { height: 6px; margin: 8px 0 0; }
+#elt-dashboard .elt-info { display: flex; flex-wrap: wrap; gap: 18px; font-size: 12px; color: #363a41; margin: 4px 0 14px; }
+#elt-dashboard .elt-actions { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 12px; }
+#elt-dashboard .elt-sep { display: inline-block; width: 1px; height: 24px; background: #dfe3e8; margin: 0 6px; }
+#elt-dashboard .elt-actions .btn[disabled] { opacity: .6; }
+#elt-dashboard .elt-actions-help { margin: -4px 0 12px; }
+#elt-dashboard .elt-help { margin: 0 0 16px; border: 1px solid #dfe3e8; border-radius: 4px; background: #fafbfc; }
+#elt-dashboard .elt-help-toggle { display: block; padding: 8px 12px; font-weight: 600; color: #363a41; text-decoration: none; }
+#elt-dashboard .elt-help-body { padding: 0 12px 8px 12px; font-size: 12px; }
+#elt-dashboard .elt-help-body li { margin-bottom: 6px; }
+#elt-dashboard .elt-log { max-height: 320px; overflow: auto; font-size: 11px; background: #23272b; color: #d9e3ea; padding: 10px; }
+#elt-dashboard .elt-table { font-size: 12px; }
+#elt-dashboard .elt-table td, #elt-dashboard .elt-table th { padding: 4px 8px; }
+#elt-dashboard .elt-row-block td { font-weight: 600; background: #fff8e1; }
+#elt-dashboard .elt-details { cursor: help; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+#elt-dashboard .elt-spin { display: inline-block; animation: elt-rotate 1s linear infinite; }
+@keyframes elt-rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
